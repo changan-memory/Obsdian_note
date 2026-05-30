@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/测试.md",
+                "file": "Token合集.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试"
+              "title": "Token合集"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "日记/测试.md",
+                "file": "Token合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "测试 的反向链接列表"
+              "title": "Token合集 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "日记/测试.md",
+                "file": "Token合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "测试 的出链列表"
+              "title": "Token合集 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/测试.md",
+                "file": "Token合集.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测试 的大纲"
+              "title": "Token合集 的大纲"
             }
           }
         ]
@@ -186,10 +186,11 @@
   },
   "active": "8fd96612115c05da",
   "lastOpenFiles": [
+    "日记/测试.md",
+    "Token合集.md",
     "日记/assets/测试/file-20260530202120910.png",
     "日记/assets/测试",
     "日记/assets",
-    "日记/测试.md",
     "未命名",
     "日记",
     "新建 文本文档.txt"
